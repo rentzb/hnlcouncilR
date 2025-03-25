@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# hnlcouncilR
+# hnlcouncilR <a href="https://rentzb.github.io/hnlcouncilR/"><img src="man/figures/logo.png" align="right" height="139" alt="hnlcouncilR website" /></a>
 
 <!-- badges: start -->
 <!-- badges: end -->
