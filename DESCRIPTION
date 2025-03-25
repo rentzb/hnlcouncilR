@@ -1,12 +1,13 @@
 Package: hnlcouncilR
 Type: Package
-Title: What the Package Does (Title Case)
+Title: A package to download and analyze data about Honolulu City Council measures
 Version: 0.1.0
 Authors@R: c(
     person(
-      "Jane", "Doe",
-      email = "jane@example.com",
-      role = c("aut", "cre")
+      "Bradley", "Rentz",
+      email = "bradley.rentz@gmail.com",
+      role = c("aut", "cre"),
+      comment = c(ORCID = "0000-0002-2893-6105")
     )
   )
 Description: More about what it does (maybe more than one line).
