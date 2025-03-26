@@ -43,3 +43,6 @@ votes_df <- get_votes(measures_df)
 cointro_network_graph(measures_df, type = "all")
 ```
 
+## Disclaimer
+This package is not affiliated with the Honolulu City Council nor the Government of the City and County of Honolulu.
+

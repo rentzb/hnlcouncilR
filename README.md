@@ -40,3 +40,8 @@ cointro_network_graph(measures_df, type = "all")
 ```
 
 <img src="man/figures/README-example-1.png" width="100%" />
+
+## Disclaimer
+
+This package is not affiliated with the Honolulu City Council nor the
+Government of the City and County of Honolulu.
